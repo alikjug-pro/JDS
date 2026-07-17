@@ -8,7 +8,7 @@ Or: # java Main
 
 To get original Java Look & Feel if not shown by default: 
 
-Try # java -Dswing.defaultlaf=javax.swi.plaf.metal.MetalLookAndFeel Main
+Try # java -Dswing.defaultlaf=javax.swing.plaf.metal.MetalLookAndFeel Main
 
 File Explorer could compile and run .java on the fly, also execute .class and system apps.
 
