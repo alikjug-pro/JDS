@@ -7,5 +7,7 @@ Run: # java -jar RetroOS.jar
 Or: # java Main
 
 To get original Java Look & Feel if not shown by default: 
+
 Try # java -Dswing.defaultlaf=javax.swi.plaf.metal.MetalLookAndFeel Main
+
 Have fun ...
