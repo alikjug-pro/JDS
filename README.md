@@ -10,4 +10,9 @@ To get original Java Look & Feel if not shown by default:
 
 Try # java -Dswing.defaultlaf=javax.swi.plaf.metal.MetalLookAndFeel Main
 
+File Explorer could compile and run .java on the fly, also execute .class and system apps.
+
+See the difference in running .class in the desktop and out by running:
+AdvancedSwingPlayer.class and AdvancedSwingPlayerPanel.class
+
 Have fun ...
